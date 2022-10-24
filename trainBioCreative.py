@@ -1,4 +1,5 @@
 
+## The code is written by Mina Kambar##
 import torch.nn as nn
 from transformers import BertModel
 import os
@@ -26,17 +27,20 @@ BERT_MAX_LEN = 512
 
 torch.cuda.set_device(0)
 
+# A class to generate the word embeddings using BioBERT model
 class setuper(nn.Module):
-    def __init__(self):
+    def __init__(self, pretrain_path):
 
-            super().__init__()
-            name ="bert-base-cased"
-            self.bert = BertModel.from_pretrained(name)
-
-
+        super().__init__()
+        name ="dmis-lab/biobert-base-cased-v1.1"
+        logging.info('Loading BERT pre-trained checkpoint.')
+        self.bert = BertModel.from_pretrained(name)
     def forward(self, token, att_mask):
-            x = self.bert(token, attention_mask=att_mask)
-            return x[0]
+        x = self.bert(token, attention_mask=att_mask)
+        return x[0]
+
+
+
 
 class Main_NN(nn.Module):
 
@@ -80,7 +84,7 @@ class Main_NN(nn.Module):
 
         return obj_heads_logits, obj_tails_logits
 
-
+#The graph neural networks model 
 class GNN(nn.Module):
     def __init__(self):
         super(GNN, self).__init__()
@@ -103,7 +107,6 @@ class GNN(nn.Module):
             p = p.cuda()
         p = self.relation(self.embeding(p))
         p = p.unsqueeze(0).expand(x.size(0), p.size(0), p.size(1))  # bcd
-        x, p = self.gat_layer(x, p, mask)  # x bcd
         tail_start, tail_end = self.head_tail_finder(x)
         if sub_head is not None and sub_tail is not None:
             e1 = self.subject_candidates(x, sub_head, sub_tail)
@@ -150,11 +153,6 @@ class GNN(nn.Module):
         te = te.sigmoid()
         return ts, te
 
-    def gat_layer(self, x, p, mask=None):
-
-        for m in self.layers:
-            x, p = m(x, p, mask)
-        return x, p
 
 
 class LLayer(nn.Module):
@@ -215,6 +213,7 @@ def pad(batch, padding=0):
         np.concatenate([seq, [padding] * (max_length - len(seq))]) if len(seq) < max_length else seq for seq in batch
     ])
 
+# This calss open and send the data to the BioBERT model and generates the word embeddings and tags
 class DatasetOpener(data.Dataset):
     def __init__(self, path, rel_dict_path):
         super().__init__()
@@ -226,7 +225,7 @@ class DatasetOpener(data.Dataset):
         self.id2rel = id2rel
         self.rel2id = rel2id
         self.maxlen = 512
-        self.berttokenizer = AutoTokenizer.from_pretrained('bert-base-cased',do_lower_case=False, do_basic_tokenize = False)#do_lower_case=False
+        self.berttokenizer = AutoTokenizer.from_pretrained('dmis-lab/biobert-base-cased-v1.1')#do_lower_case=False
         # self.berttokenizer.do_basic_tokenize = False
         for sent in self.data:
             ## to tuple
@@ -243,7 +242,7 @@ class DatasetOpener(data.Dataset):
 
     def _tokenizer(self, line):
         
-        # print("line['text'] is: ", line['text'])
+     
         text = ' '.join(line['text'].split()[:self.maxlen])
         tokens = self._tokenize(text)
         if len(tokens) > BERT_MAX_LEN:
@@ -256,9 +255,6 @@ class DatasetOpener(data.Dataset):
             
             sub_head_idx = h_finder(tokens, triple[0])
             obj_head_idx = h_finder(tokens, triple[2])
-            # print(triple[0])
-            # print(triple[1])
-            # print(triple[2])
             if sub_head_idx != -1 and obj_head_idx != -1:
                 sub = (sub_head_idx, sub_head_idx + len(triple[0]) - 1)
                 if sub not in tagger:
@@ -304,7 +300,8 @@ class DatasetOpener(data.Dataset):
         item = self.data[index]
         ret = self._tokenizer(item)
         return ret
-        
+
+# This function compares the predicted values with the test sets to calculates the measurements of the model. The result is saved in save_resualt path
     def calculator(self, model, h_bar = 0.5, t_bar=0.5, exact_match=False, output_path=None):
         save_data = []
         orders = ['subject', 'relation', 'object']
@@ -431,7 +428,7 @@ class DatasetOpener(data.Dataset):
 
 
 
-
+#This function loads the train, test, and development data sets
 def TrainLoader(path, rel2id, batch_size,
                      shuffle, num_workers=8, collate_fn=DatasetOpener.collate_fn):
 
@@ -446,11 +443,11 @@ def TrainLoader(path, rel2id, batch_size,
  
     return data_loader
 
-
+# This function calss the trainloader function and send them to the model
 class First_RE(nn.Module):
 
-    def __init__(self,model,train = os.path.join('data', 'WebNLG/train_triples.json'),val=os.path.join('data', 'WebNLG/dev_triples.json'),test=os.path.join('data', 'WebNLG/test_triples.json'),
-                 rel2id=os.path.join('data', 'WebNLG/rel2id.json'),ckpt='checkpoint/WebNLG.pth.tar',batch_size=6,max_epoch=100,lr=1e-1,num_workers= 4,weight_decay=1e-5):
+    def __init__(self,model,train = os.path.join('data', 'BioCreative_VI/train_triples.json'),val=os.path.join('data', 'BioCreative_VI/dev_triples.json'),test=os.path.join('data', 'BioCreative_VI/test_triples.json'),
+                 rel2id=os.path.join('data', 'BioCreative_VI/rel2id.json'),ckpt='checkpoint/BioCreative_VI.pth.tar',batch_size=6,max_epoch=100,lr=1e-1,num_workers= 4,weight_decay=1e-5):
 
         super().__init__()
         self.max_epoch = max_epoch
@@ -521,6 +518,8 @@ class First_RE(nn.Module):
                 self.optimizer.zero_grad()
                 global_step += 1
                 ###
+
+
             # Val
             print("=== Epoch %d val ===" % epoch)
             self.eval()
@@ -587,8 +586,8 @@ if __name__ == '__main__':
     torch.manual_seed(seed)
     model = Main_NN()  
     GNNModel = First_RE(model)
-    output_path = 'save_result/WebNLG_result.json'
+    output_path = 'save_result/BioCreative_VI_result.json'
     GNNModel.train_model()
-    GNNModel.load_state_dict('checkpoint/WebNLG.pth.tar')
+    GNNModel.load_state_dict('checkpoint/BioCreative_VI.pth.tar')
     GNNModel.test_set.calculator(GNNModel.model, output_path=output_path)
     
