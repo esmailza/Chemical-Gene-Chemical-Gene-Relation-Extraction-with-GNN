@@ -13,7 +13,7 @@ The model identifies chemical components and genes named entities and extracts t
     - Gene Tagger 
 
 <img src="https://user-images.githubusercontent.com/59030870/197599628-e47f1ec4-34a2-4aa0-ac7b-c5c11d9c5568.png" 
-     width="500" 
+     width="530" 
      height="500"
    />
 
