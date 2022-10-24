@@ -11,7 +11,10 @@ The model identifies chemical components and genes named entities and extracts t
 - Word Embedding using BioBERT
 - Graph Attention Networks
     -  Calculate Attention Weights
+    -  Update Vector Representations
 - Relation Extraction and Tagging
+    - Chemical Tagger
+    - Gene Tagger 
 
 
 
