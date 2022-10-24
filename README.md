@@ -33,3 +33,13 @@ python trainBioCreative.py
   - transformers
   - numpy
 
+## Citation
+@inproceedings{esmail2022chemical,
+  title={Chemical-Gene Relation Extraction with Graph Neural Networks and BERT Encoder},
+  author={Esmail Zadeh Nojoo Kambar, Mina and Esmaeilzadeh, Armin and Taghva, Kazem},
+  booktitle={The International Conference on Innovations in Computing Research},
+  pages={166--179},
+  year={2022},
+  organization={Springer}
+}
+
