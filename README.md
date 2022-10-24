@@ -4,14 +4,6 @@ The model identifies chemical components and genes named entities and extracts t
 
 ## Model Architecture
 
-
-<img src="https://user-images.githubusercontent.com/59030870/197599628-e47f1ec4-34a2-4aa0-ac7b-c5c11d9c5568.png" 
-     width="500" 
-     height="500"
-   />
-
-## Model sections
-
 - Word Embedding using BioBERT
 - Graph Attention Networks
     -  Calculate Attention Weights
@@ -20,8 +12,17 @@ The model identifies chemical components and genes named entities and extracts t
     - Chemical Tagger
     - Gene Tagger 
 
+<img src="https://user-images.githubusercontent.com/59030870/197599628-e47f1ec4-34a2-4aa0-ac7b-c5c11d9c5568.png" 
+     width="500" 
+     height="500"
+   />
 
 
+## Train the model
+
+```sh
+python trainBioCreative.py
+```
 
 
 ## Requirements
