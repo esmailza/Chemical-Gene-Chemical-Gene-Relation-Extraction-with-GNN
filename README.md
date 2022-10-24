@@ -1,4 +1,4 @@
-## Chemical-Gene-Chemical-Gene-Relation-Extraction-with-GNN
+## Chemical-Gene-Relation-Extraction-with-GNN
 
 The model identifies chemical components and genes named entities and extracts the relations of the chemical-gene pair jointly. It utilizes the BioBERT model for word embedding and uses the GNN model for named recognition and RE subtasks. 
 
