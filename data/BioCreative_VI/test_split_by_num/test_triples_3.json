@@ -1,0 +1,2702 @@
+[
+    {
+        "text": "Androgen antagonistic effect of estramustine phosphate EMP metabolites on wildtype and mutated androgen receptor",
+        "triple_list": [
+            [
+                "Androgen",
+                "CPR:6",
+                "androgen receptor"
+            ],
+            [
+                "estramustine phosphate",
+                "CPR:6",
+                "androgen receptor"
+            ],
+            [
+                "EMP",
+                "CPR:6",
+                "androgen receptor"
+            ]
+        ]
+    },
+    {
+        "text": "We find that FP causes a decrease in stimulated eosinophil secretion of LTC4 that is regulated by phospholipase A2 PLA2",
+        "triple_list": [
+            [
+                "FP",
+                "CPR:4",
+                "phospholipase A2"
+            ],
+            [
+                "LTC4",
+                "CPR:9",
+                "phospholipase A2"
+            ],
+            [
+                "LTC4",
+                "CPR:9",
+                "PLA2"
+            ]
+        ]
+    },
+    {
+        "text": "The nonselective and irreversible MAO inhibitors phenelzine 310 mgkg tranylcypromine 13 mgkg and nialamide 30 mgkg decreased rates of responding maintained by ethanol reinforcement",
+        "triple_list": [
+            [
+                "MAO",
+                "CPR:4",
+                "phenelzine"
+            ],
+            [
+                "MAO",
+                "CPR:4",
+                "tranylcypromine"
+            ],
+            [
+                "MAO",
+                "CPR:4",
+                "nialamide"
+            ]
+        ]
+    },
+    {
+        "text": "Another inhibitor brequinar was previously reported to be a slowbinding inhibitor of the human dihydroorotate dehydrogenase W Knecht M Loffler Speciesrelated inhibition of human and rat dihyroorotate dehydrogenase by immunosuppressive isoxazol and cinchoninic acid derivatives Biochem",
+        "triple_list": [
+            [
+                "brequinar",
+                "CPR:4",
+                "human dihydroorotate dehydrogenase"
+            ],
+            [
+                "human and rat dihyroorotate dehydrogenase",
+                "CPR:4",
+                "isoxazol"
+            ],
+            [
+                "human and rat dihyroorotate dehydrogenase",
+                "CPR:4",
+                "cinchoninic acid"
+            ]
+        ]
+    },
+    {
+        "text": "With respect to the quinone cosubstrate of the dihydroorotate dehydrogenase atovaquone Kic = 27 microM and dichloroallylawsone Kic = 98 nM were shown to be competitive inhibitors of human dihydroorotate dehydrogenase",
+        "triple_list": [
+            [
+                "atovaquone",
+                "CPR:4",
+                "human dihydroorotate dehydrogenase"
+            ],
+            [
+                "dichloroallylawsone",
+                "CPR:4",
+                "human dihydroorotate dehydrogenase"
+            ],
+            [
+                "quinone",
+                "CPR:9",
+                "dihydroorotate dehydrogenase"
+            ]
+        ]
+    },
+    {
+        "text": "Geldanamycin also disrupts the Tcell receptor mediated activation of nuclear factor of activated Tcells NFAT",
+        "triple_list": [
+            [
+                "Geldanamycin",
+                "CPR:4",
+                "Tcell receptor"
+            ],
+            [
+                "Geldanamycin",
+                "CPR:4",
+                "nuclear factor of activated Tcells"
+            ],
+            [
+                "Geldanamycin",
+                "CPR:4",
+                "NFAT"
+            ]
+        ]
+    },
+    {
+        "text": "gammaButyrobetaine hydroxylase catalyse the last step in carnitine biosynthesis the formation of Lcarnitine from gammabutyrobetaine a reaction dependent on Fe2 alphaketoglutarate ascorbate and oxygen",
+        "triple_list": [
+            [
+                "gammaButyrobetaine hydroxylase",
+                "CPR:9",
+                "carnitine"
+            ],
+            [
+                "gammaButyrobetaine hydroxylase",
+                "CPR:9",
+                "Lcarnitine"
+            ],
+            [
+                "gammaButyrobetaine hydroxylase",
+                "CPR:9",
+                "gammabutyrobetaine"
+            ]
+        ]
+    },
+    {
+        "text": "In these tissues JTH601 prazosin a nonselective alpha1adrenoceptor antagonist and tamsulosin an alpha1Aadrenoceptor antagonist competitively antagonized contraction in a concentrationdependent manner",
+        "triple_list": [
+            [
+                "JTH601",
+                "CPR:6",
+                "alpha1adrenoceptor"
+            ],
+            [
+                "prazosin",
+                "CPR:6",
+                "alpha1adrenoceptor"
+            ],
+            [
+                "tamsulosin",
+                "CPR:6",
+                "alpha1Aadrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "Treatment of lactating mice with a single injection of bezafibrate an activator of the peroxisome proliferatoractivated receptor PPAR raises UCP3 mRNA in skeletal muscle to levels similar to those in virgin mice",
+        "triple_list": [
+            [
+                "bezafibrate",
+                "CPR:3",
+                "peroxisome proliferatoractivated receptor"
+            ],
+            [
+                "bezafibrate",
+                "CPR:3",
+                "PPAR"
+            ],
+            [
+                "bezafibrate",
+                "CPR:3",
+                "UCP3"
+            ]
+        ]
+    },
+    {
+        "text": "In mice AS8112 10 30 mg kg1 sc potently inhibited hypothermia induced by the dopamine D3 receptor agonist R7OHDPAT R7hydroxy2NNdinpropylaminotetraline 03 mg kg1 sc",
+        "triple_list": [
+            [
+                "AS8112",
+                "CPR:4",
+                "dopamine D3 receptor"
+            ],
+            [
+                "dopamine D3 receptor",
+                "CPR:5",
+                "R7OHDPAT"
+            ],
+            [
+                "dopamine D3 receptor",
+                "CPR:5",
+                "R7hydroxy2NNdinpropylaminotetraline"
+            ]
+        ]
+    },
+    {
+        "text": "Rosiglitazone modestly increased apolipoprotein CIII mRNA and had no effect on expression of the other 2 genes in the liver but increased the expression of glucose transporter 4 and phosphoenolpyruvate carboxykinase in adipose tissue",
+        "triple_list": [
+            [
+                "Rosiglitazone",
+                "CPR:3",
+                "glucose transporter 4"
+            ],
+            [
+                "Rosiglitazone",
+                "CPR:3",
+                "phosphoenolpyruvate carboxykinase"
+            ],
+            [
+                "Rosiglitazone",
+                "CPR:3",
+                "apolipoprotein CIII"
+            ]
+        ]
+    },
+    {
+        "text": "It showed high rat lymphoma growthinhibitory and lytic activity in vitro IC50 = 016 mM based specifically on inhibition of xc mediated cystine uptake in contrast to its colonic metabolites sulfapyridine and 5aminosalicylic acid",
+        "triple_list": [
+            [
+                "xc",
+                "CPR:4",
+                "sulfapyridine"
+            ],
+            [
+                "xc",
+                "CPR:4",
+                "5aminosalicylic acid"
+            ],
+            [
+                "xc",
+                "CPR:9",
+                "cystine"
+            ]
+        ]
+    },
+    {
+        "text": "Like conventional ACE inhibitors omapatrilat causes extracellular volume reduction and vasodilatation moreover it increases levels of atrial and brain natriuretic peptides and bradykinin",
+        "triple_list": [
+            [
+                "omapatrilat",
+                "CPR:3",
+                "atrial and brain natriuretic peptides"
+            ],
+            [
+                "omapatrilat",
+                "CPR:3",
+                "bradykinin"
+            ],
+            [
+                "ACE",
+                "CPR:4",
+                "omapatrilat"
+            ]
+        ]
+    },
+    {
+        "text": "Omapatrilat the prototypical vasopeptidase inhibitor inhibits not only ACE but also neutral endopeptidase",
+        "triple_list": [
+            [
+                "Omapatrilat",
+                "CPR:4",
+                "vasopeptidase"
+            ],
+            [
+                "Omapatrilat",
+                "CPR:4",
+                "ACE"
+            ],
+            [
+                "Omapatrilat",
+                "CPR:4",
+                "neutral endopeptidase"
+            ]
+        ]
+    },
+    {
+        "text": "A series of studies is reviewed that assesses the relationship between cytokines released at the site of tissue injury and NSAID analgesia and the in vivo selectivity of a selective cyclooxygenase COX2 inhibitor celecoxib in comparison to a dual COX1 COX2 inhibitor ketorolac",
+        "triple_list": [
+            [
+                "cyclooxygenase COX2",
+                "CPR:4",
+                "celecoxib"
+            ],
+            [
+                "COX1",
+                "CPR:4",
+                "ketorolac"
+            ],
+            [
+                "COX2",
+                "CPR:4",
+                "ketorolac"
+            ]
+        ]
+    },
+    {
+        "text": "Olopatadine hydrochloride olopatadine 11Z3dimethylaminopropylidene611dihydrodibenzbeoxepin2acetic acid monohydrochloride is a novel antiallergic histamine H1receptor antagonistic drug that was synthesized and evaluated in our laboratories",
+        "triple_list": [
+            [
+                "olopatadine",
+                "CPR:6",
+                "histamine H1receptor"
+            ],
+            [
+                "11Z3dimethylaminopropylidene611dihydrodibenzbeoxepin2acetic acid monohydrochloride",
+                "CPR:6",
+                "histamine H1receptor"
+            ],
+            [
+                "Olopatadine hydrochloride",
+                "CPR:6",
+                "histamine H1receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Metformin treatment for 10 weeks significantly increased AMPK alpha2 activity in the skeletal muscle and this was associated with increased phosphorylation of AMPK on Thr172 and decreased acetylCoA carboxylase2 activity",
+        "triple_list": [
+            [
+                "Metformin",
+                "CPR:3",
+                "AMPK alpha2"
+            ],
+            [
+                "Metformin",
+                "CPR:3",
+                "AMPK"
+            ],
+            [
+                "Metformin",
+                "CPR:4",
+                "acetylCoA carboxylase2"
+            ]
+        ]
+    },
+    {
+        "text": "Substrate specificity using lysates of oxidasetransfected HEK293 cells revealed that the newly identified oxidase strongly favoured spermine over N 1acetylspermine and that it failed to act on N 1acetylspermidine spermidine or the preferred PAO substrate N 1 N 12diacetylspermine",
+        "triple_list": [
+            [
+                "oxidase",
+                "CPR:9",
+                "spermine"
+            ],
+            [
+                "oxidase",
+                "CPR:9",
+                "N 1acetylspermine"
+            ],
+            [
+                "PAO",
+                "CPR:9",
+                "N 1 N 12diacetylspermine"
+            ]
+        ]
+    },
+    {
+        "text": "Longterm administration of propargylamines to rats increased the activities of antioxidative enzymes superoxide dismutase SOD and catalase in the brain regions containing dopamine neurons",
+        "triple_list": [
+            [
+                "propargylamines",
+                "CPR:3",
+                "superoxide dismutase"
+            ],
+            [
+                "propargylamines",
+                "CPR:3",
+                "SOD"
+            ],
+            [
+                "propargylamines",
+                "CPR:3",
+                "catalase"
+            ]
+        ]
+    },
+    {
+        "text": "Sildenafil exhibits inhibitory potency against PDE5 and a 10fold lower doserelated inhibitory potency against rod outer segment PDE6 the predominant PDE in the phototransduction cascade in rods",
+        "triple_list": [
+            [
+                "Sildenafil",
+                "CPR:4",
+                "PDE"
+            ],
+            [
+                "Sildenafil",
+                "CPR:4",
+                "PDE5"
+            ],
+            [
+                "Sildenafil",
+                "CPR:4",
+                "PDE6"
+            ]
+        ]
+    },
+    {
+        "text": "Resiquimod stimulated pDC also produce a number of other cytokines including TNFalpha and IP10",
+        "triple_list": [
+            [
+                "Resiquimod",
+                "CPR:3",
+                "cytokines"
+            ],
+            [
+                "Resiquimod",
+                "CPR:3",
+                "TNFalpha"
+            ],
+            [
+                "Resiquimod",
+                "CPR:3",
+                "IP10"
+            ]
+        ]
+    },
+    {
+        "text": "Arsenite triggered strong induction of HSPs which was prevented by 1 micro gmL cycloheximide CXH",
+        "triple_list": [
+            [
+                "Arsenite",
+                "CPR:3",
+                "HSPs"
+            ],
+            [
+                "HSPs",
+                "CPR:4",
+                "cycloheximide"
+            ],
+            [
+                "HSPs",
+                "CPR:4",
+                "CXH"
+            ]
+        ]
+    },
+    {
+        "text": "This study shows that the potency of GW660511X in comparison with omapatrilat is more than 100fold lower in human but less than 10fold lower in rat plasma suggesting that rat may not be a suitable in vivo model for the evaluation of ACE NEP inhibition in relation to effects in humans",
+        "triple_list": [
+            [
+                "GW660511X",
+                "CPR:4",
+                "ACE"
+            ],
+            [
+                "GW660511X",
+                "CPR:4",
+                "NEP"
+            ],
+            [
+                "omapatrilat",
+                "CPR:4",
+                "NEP"
+            ]
+        ]
+    },
+    {
+        "text": "Blocking EGFR signaling with the EGFR HER2 kinase inhibitor KI GW572016 decreased the postradiation survival of irradiated Ras transformed cells and normal cells but had no effect on the survival of unirradiated cells",
+        "triple_list": [
+            [
+                "GW572016",
+                "CPR:4",
+                "Ras"
+            ],
+            [
+                "EGFR",
+                "CPR:4",
+                "GW572016"
+            ],
+            [
+                "HER2",
+                "CPR:4",
+                "GW572016"
+            ]
+        ]
+    },
+    {
+        "text": "Effects of the EGFR HER2 kinase inhibitor GW572016 on EGFR and HER2 overexpressing breast cancer cell line proliferation radiosensitization and resistance",
+        "triple_list": [
+            [
+                "EGFR",
+                "CPR:4",
+                "GW572016"
+            ],
+            [
+                "HER2",
+                "CPR:4",
+                "GW572016"
+            ],
+            [
+                "kinase",
+                "CPR:4",
+                "GW572016"
+            ]
+        ]
+    },
+    {
+        "text": "RA is known to induce expression of the Burkitts lymphoma receptor 1 BLR1 gene which propels RA induced cell cycle arrest and differentiation of HL60 human myeloblastic leukemia cells motivating the present analysis of transcriptional regulation of blr1 expression by RA",
+        "triple_list": [
+            [
+                "RA",
+                "CPR:3",
+                "blr1"
+            ],
+            [
+                "RA",
+                "CPR:3",
+                "Burkitts lymphoma receptor 1"
+            ],
+            [
+                "RA",
+                "CPR:3",
+                "BLR1"
+            ]
+        ]
+    },
+    {
+        "text": "BACKGROUND To assess the sensitivity of biochemical physiological and pharmacological markers of peripheral norepinephrine NE transporter NET function we chronically antagonized NET by a range of doses of duloxetine Nmethyl31naphthalenyloxy2 thiophenepropanamine which blocks the NE reuptake process",
+        "triple_list": [
+            [
+                "NET",
+                "CPR:6",
+                "duloxetine"
+            ],
+            [
+                "NET",
+                "CPR:6",
+                "Nmethyl31naphthalenyloxy2 thiophenepropanamine"
+            ],
+            [
+                "NE",
+                "CPR:9",
+                "NET"
+            ]
+        ]
+    },
+    {
+        "text": "Auranofin an antirheumatic gold compound is an inhibitor of selenocysteine enzymes such as thioredoxin reductase and glutathione peroxidase",
+        "triple_list": [
+            [
+                "Auranofin",
+                "CPR:4",
+                "glutathione peroxidase"
+            ],
+            [
+                "Auranofin",
+                "CPR:4",
+                "selenocysteine enzymes"
+            ],
+            [
+                "Auranofin",
+                "CPR:4",
+                "thioredoxin reductase"
+            ]
+        ]
+    },
+    {
+        "text": "Valdecoxib showed similar activity in the human wholeblood COX assay COX2 IC50 = 024 microM COX1 IC50 = 219 microM",
+        "triple_list": [
+            [
+                "Valdecoxib",
+                "CPR:4",
+                "human wholeblood COX"
+            ],
+            [
+                "Valdecoxib",
+                "CPR:4",
+                "COX2"
+            ],
+            [
+                "Valdecoxib",
+                "CPR:4",
+                "COX1"
+            ]
+        ]
+    },
+    {
+        "text": "An angiotensin II AT1 receptor antagonist telmisartan augments glucose uptake and GLUT4 protein expression in 3T3L1 adipocytes",
+        "triple_list": [
+            [
+                "telmisartan",
+                "CPR:3",
+                "GLUT4"
+            ],
+            [
+                "angiotensin II AT1 receptor",
+                "CPR:6",
+                "telmisartan"
+            ],
+            [
+                "glucose",
+                "CPR:9",
+                "GLUT4"
+            ]
+        ]
+    },
+    {
+        "text": "Treatment of both differentiating adipocytes and fully differentiated adipocytes with telmisartan caused a dosedependent increase in mRNA levels for PPARgamma target genes such as aP2 and adiponectin",
+        "triple_list": [
+            [
+                "telmisartan",
+                "CPR:3",
+                "PPARgamma"
+            ],
+            [
+                "telmisartan",
+                "CPR:3",
+                "aP2"
+            ],
+            [
+                "telmisartan",
+                "CPR:3",
+                "adiponectin"
+            ]
+        ]
+    },
+    {
+        "text": "In conclusion TT235 may inhibit the uterine response to oxytocin by decreasing oxytocin receptor numbers and oxytocin binding affinity which might explain the prolonged oxytocin antagonist activity of TT235",
+        "triple_list": [
+            [
+                "TT235",
+                "CPR:4",
+                "oxytocin"
+            ],
+            [
+                "TT235",
+                "CPR:4",
+                "oxytocin receptor"
+            ],
+            [
+                "TT235",
+                "CPR:6",
+                "oxytocin"
+            ]
+        ]
+    },
+    {
+        "text": "In Experiment 1 Antag I Antag II and TT235 inhibited the integrated uterine response to oxytocin at 5 minutes by 76 77 and 80 respectively compared to controls p005",
+        "triple_list": [
+            [
+                "Antag I",
+                "CPR:4",
+                "oxytocin"
+            ],
+            [
+                "Antag II",
+                "CPR:4",
+                "oxytocin"
+            ],
+            [
+                "TT235",
+                "CPR:4",
+                "oxytocin"
+            ]
+        ]
+    },
+    {
+        "text": "Binding domains of the oxytocin receptor for the selective oxytocin receptor antagonist barusiban in comparison to the agonists oxytocin and carbetocin",
+        "triple_list": [
+            [
+                "oxytocin",
+                "CPR:5",
+                "oxytocin receptor"
+            ],
+            [
+                "oxytocin receptor",
+                "CPR:5",
+                "carbetocin"
+            ],
+            [
+                "oxytocin receptor",
+                "CPR:6",
+                "barusiban"
+            ]
+        ]
+    },
+    {
+        "text": "These findings suggest that the mechanism of antiproliferative toxicity of capecitabine is at least partly due to TS inhibitory activity of its active metabolite 5fluoro2deoxyuridine monophosphate FdUMP",
+        "triple_list": [
+            [
+                "TS",
+                "CPR:4",
+                "FdUMP"
+            ],
+            [
+                "capecitabine",
+                "CPR:4",
+                "TS"
+            ],
+            [
+                "TS",
+                "CPR:4",
+                "5fluoro2deoxyuridine monophosphate"
+            ]
+        ]
+    },
+    {
+        "text": "Although imatinib primarily inhibits tyrosine kinases it also stimulates the activity of EGFR tyrosine kinase in head and neck squamous tumors",
+        "triple_list": [
+            [
+                "imatinib",
+                "CPR:3",
+                "EGFR"
+            ],
+            [
+                "imatinib",
+                "CPR:3",
+                "tyrosine kinase"
+            ],
+            [
+                "imatinib",
+                "CPR:4",
+                "tyrosine kinases"
+            ]
+        ]
+    },
+    {
+        "text": "The identity of the lung betaADHs was further demonstrated by their characteristic pHactivity profiles for ethanol oxidation Km values for NAD and ethanol and inhibition by 4methylpyrazole or 110phenanthroline",
+        "triple_list": [
+            [
+                "betaADHs",
+                "CPR:4",
+                "4methylpyrazole"
+            ],
+            [
+                "betaADHs",
+                "CPR:4",
+                "110phenanthroline"
+            ],
+            [
+                "betaADHs",
+                "CPR:9",
+                "ethanol"
+            ]
+        ]
+    },
+    {
+        "text": "Increased immunohistochemical labeling of HIF1alpha VEGF and BNP in the ventricular myocardium was observed in the banding group and carvedilol again normalized the labeling",
+        "triple_list": [
+            [
+                "HIF1alpha",
+                "CPR:4",
+                "carvedilol"
+            ],
+            [
+                "VEGF",
+                "CPR:4",
+                "carvedilol"
+            ],
+            [
+                "BNP",
+                "CPR:4",
+                "carvedilol"
+            ]
+        ]
+    },
+    {
+        "text": "Treatment with carvedilol is associated with a reversal of abnormal regulation of HIF1alpha VEGF BNP and NGFbeta in the hypertrophic myocardium",
+        "triple_list": [
+            [
+                "carvedilol",
+                "CPR:4",
+                "HIF1alpha"
+            ],
+            [
+                "carvedilol",
+                "CPR:4",
+                "VEGF"
+            ],
+            [
+                "carvedilol",
+                "CPR:4",
+                "BNP"
+            ]
+        ]
+    },
+    {
+        "text": "Moreover 4methylhistamine potently activated the hH4R pEC50 = 74 01 alpha = 1 and this response was competitively antagonized by the selective H4R antagonist JNJ 7777120 15chloro1Hindol2ylcarbonyl4methylpiperazine pA2 = 78",
+        "triple_list": [
+            [
+                "4methylhistamine",
+                "CPR:3",
+                "hH4R"
+            ],
+            [
+                "H4R",
+                "CPR:6",
+                "JNJ 7777120"
+            ],
+            [
+                "H4R",
+                "CPR:6",
+                "15chloro1Hindol2ylcarbonyl4methylpiperazine"
+            ]
+        ]
+    },
+    {
+        "text": "Both inhibitors moreover blunted the mucin secretory responses to betaadrenergic agonistgenerated second messenger cAMP as well as adenylate cyclase activator forskolin",
+        "triple_list": [
+            [
+                "adenylate cyclase",
+                "CPR:3",
+                "forskolin"
+            ],
+            [
+                "mucin",
+                "CPR:4",
+                "forskolin"
+            ],
+            [
+                "cAMP",
+                "CPR:9",
+                "adenylate cyclase"
+            ]
+        ]
+    },
+    {
+        "text": "This process was reduced by a protonophore carbonylcyanide ptrifluoromethoxyphenylhydrazone and a typical monocarboxylate transporter MCT inhibitor alphacyano4hydroxycinnamic acid suggesting that nicotinate uptake by rat astrocytes is mediated by Hcoupled monocarboxylate transport system",
+        "triple_list": [
+            [
+                "monocarboxylate transporter",
+                "CPR:4",
+                "alphacyano4hydroxycinnamic acid"
+            ],
+            [
+                "MCT",
+                "CPR:4",
+                "alphacyano4hydroxycinnamic acid"
+            ],
+            [
+                "nicotinate",
+                "CPR:9",
+                "monocarboxylate transport system"
+            ]
+        ]
+    },
+    {
+        "text": "These results provide biochemical evidence of a Hcoupled and saturable transport system presumed to be a lowaffinity monocarboxylate transporter MCT4 or other unknown Hcoupled monocarboxylate transport system for nicotinate in rat cerebrocortical astrocytes",
+        "triple_list": [
+            [
+                "lowaffinity monocarboxylate transporter",
+                "CPR:9",
+                "nicotinate"
+            ],
+            [
+                "MCT4",
+                "CPR:9",
+                "nicotinate"
+            ],
+            [
+                "Hcoupled monocarboxylate transport system",
+                "CPR:9",
+                "nicotinate"
+            ]
+        ]
+    },
+    {
+        "text": "Effects of granulocyte colonystimulating factor GCSF and neutrophil elastase inhibitor ONO5046 on acidinduced lung injury in rats",
+        "triple_list": [
+            [
+                "granulocyte colonystimulating factor",
+                "CPR:4",
+                "ONO5046"
+            ],
+            [
+                "GCSF",
+                "CPR:4",
+                "ONO5046"
+            ],
+            [
+                "neutrophil elastase",
+                "CPR:4",
+                "ONO5046"
+            ]
+        ]
+    },
+    {
+        "text": "The functional characteristics of rabbit PAT1 in either mammalian cells or renal BBMV suggest that PAT1 is the lowaffinity transporter of proline glycine and hydroxyproline believed to be defective in patients with iminoglycinuria",
+        "triple_list": [
+            [
+                "PAT1",
+                "CPR:9",
+                "proline"
+            ],
+            [
+                "PAT1",
+                "CPR:9",
+                "glycine"
+            ],
+            [
+                "PAT1",
+                "CPR:9",
+                "hydroxyproline"
+            ]
+        ]
+    },
+    {
+        "text": "We compared the effects of Captopril an ACE inhibitor with SH group enalapril an ACEinhibitor without SH group Nacetylcysteine only SH group not ACE inhibitor on endothelial dysfunction injured by methionineinduced hyperhomocysteinemia HHcy in rats",
+        "triple_list": [
+            [
+                "Captopril",
+                "CPR:4",
+                "ACE"
+            ],
+            [
+                "ACE",
+                "CPR:4",
+                "SH"
+            ],
+            [
+                "ACE",
+                "CPR:4",
+                "enalapril"
+            ]
+        ]
+    },
+    {
+        "text": "Comparison of captopril and enalapril to study the role of the sulfhydryl group in improvement of endothelial dysfunction with ACE inhibitors in high dieted methionine mice",
+        "triple_list": [
+            [
+                "captopril",
+                "CPR:4",
+                "ACE"
+            ],
+            [
+                "enalapril",
+                "CPR:4",
+                "ACE"
+            ],
+            [
+                "sulfhydryl",
+                "CPR:4",
+                "ACE"
+            ]
+        ]
+    },
+    {
+        "text": "A selective retinoid X receptor agonist bexarotene LGD1069 targretin inhibits angiogenesis and metastasis in solid tumours",
+        "triple_list": [
+            [
+                "retinoid X receptor",
+                "CPR:5",
+                "bexarotene"
+            ],
+            [
+                "retinoid X receptor",
+                "CPR:5",
+                "LGD1069"
+            ],
+            [
+                "retinoid X receptor",
+                "CPR:5",
+                "targretin"
+            ]
+        ]
+    },
+    {
+        "text": "Weakly translocated lipids PE phosphatidylhydroxypropionate and phosphatidylhomoserine are also weak Atp8a1 activators",
+        "triple_list": [
+            [
+                "PE",
+                "CPR:3",
+                "Atp8a1"
+            ],
+            [
+                "phosphatidylhydroxypropionate",
+                "CPR:3",
+                "Atp8a1"
+            ],
+            [
+                "phosphatidylhomoserine",
+                "CPR:3",
+                "Atp8a1"
+            ]
+        ]
+    },
+    {
+        "text": "Both H2S solution prepared by bubbling pure H2S gas and NaSH a H2S donor dose dependently induced HO1 expression through the activation of the extracellular signalregulated kinase ERK",
+        "triple_list": [
+            [
+                "H2S",
+                "CPR:3",
+                "HO1"
+            ],
+            [
+                "H2S",
+                "CPR:3",
+                "extracellular signalregulated kinase"
+            ],
+            [
+                "H2S",
+                "CPR:3",
+                "ERK"
+            ]
+        ]
+    },
+    {
+        "text": "CO treatment also inhibited LPSinduced NO production and iNOS expression via its inactivation of NFkappaB",
+        "triple_list": [
+            [
+                "CO",
+                "CPR:4",
+                "iNOS"
+            ],
+            [
+                "CO",
+                "CPR:4",
+                "NFkappaB"
+            ],
+            [
+                "NO",
+                "CPR:9",
+                "iNOS"
+            ]
+        ]
+    },
+    {
+        "text": "Pretreatment with H2S or NaHS significantly inhibited LPSinduced iNOS expression and NO production",
+        "triple_list": [
+            [
+                "H2S",
+                "CPR:4",
+                "iNOS"
+            ],
+            [
+                "NaHS",
+                "CPR:4",
+                "iNOS"
+            ],
+            [
+                "iNOS",
+                "CPR:9",
+                "NO"
+            ]
+        ]
+    },
+    {
+        "text": "Moreover NO production in LPSstimulated macrophages that are expressing CSE mRNA was significantly reduced by the addition of LCys a substrate for H2S but enhanced by the selective CSE inhibitor betacyanoLalanine but not by the CBS inhibitor aminooxyacetic acid",
+        "triple_list": [
+            [
+                "CSE",
+                "CPR:4",
+                "betacyanoLalanine"
+            ],
+            [
+                "CBS",
+                "CPR:4",
+                "aminooxyacetic acid"
+            ],
+            [
+                "CSE",
+                "CPR:9",
+                "LCys"
+            ]
+        ]
+    },
+    {
+        "text": "Phospholipase C beta PLCbetacoupled G proteincoupled receptor GPCR activities traditionally are assessed by measuring Ca2 triggered by Dmyoinositol 145trisphosphate IP3 a PLCbeta hydrolysis product or by measuring the production of inositol phosphate using cumbersome radioactive assays",
+        "triple_list": [
+            [
+                "PLCbeta",
+                "CPR:9",
+                "Dmyoinositol 145trisphosphate"
+            ],
+            [
+                "PLCbeta",
+                "CPR:9",
+                "IP3"
+            ],
+            [
+                "PLCbeta",
+                "CPR:9",
+                "inositol phosphate"
+            ]
+        ]
+    },
+    {
+        "text": "ATRA regulates gene expression via the activation of the retinoic acid receptor RARalpha in human DCs and RARalpha acutely regulates CD1d expression",
+        "triple_list": [
+            [
+                "ATRA",
+                "CPR:3",
+                "retinoic acid receptor RARalpha"
+            ],
+            [
+                "ATRA",
+                "CPR:3",
+                "RARalpha"
+            ],
+            [
+                "ATRA",
+                "CPR:3",
+                "CD1d"
+            ]
+        ]
+    },
+    {
+        "text": "Glinides sulfonylureas and other acidified sulfonamides may be promising leads in the development of new PPARgamma agonists",
+        "triple_list": [
+            [
+                "Glinides",
+                "CPR:5",
+                "PPARgamma"
+            ],
+            [
+                "sulfonylureas",
+                "CPR:5",
+                "PPARgamma"
+            ],
+            [
+                "acidified sulfonamides",
+                "CPR:5",
+                "PPARgamma"
+            ]
+        ]
+    },
+    {
+        "text": "These results highlight the importance of PR activation of the Src MAPK signaling pathway for progesterone induced transcription of select target genes and cell cycle progression",
+        "triple_list": [
+            [
+                "PR",
+                "CPR:3",
+                "progesterone"
+            ],
+            [
+                "Src",
+                "CPR:3",
+                "progesterone"
+            ],
+            [
+                "MAPK",
+                "CPR:3",
+                "progesterone"
+            ]
+        ]
+    },
+    {
+        "text": "Progestin induction of the cyclin D1 gene which lacks a progesterone response element was dependent on PR activation of the Src MAPK pathway whereas induction of the Sgk serum and glucocorticoid regulated kinase gene that contains a functional progesterone response element was unaffected by mutations that interfere with PR activation of Src",
+        "triple_list": [
+            [
+                "Progestin",
+                "CPR:3",
+                "PR"
+            ],
+            [
+                "Progestin",
+                "CPR:3",
+                "Src"
+            ],
+            [
+                "Progestin",
+                "CPR:3",
+                "MAPK"
+            ]
+        ]
+    },
+    {
+        "text": "SecS required selenophosphate and Ophosphoseryl tRNASerSec as substrates to generate selenocysteyl tRNASerSec",
+        "triple_list": [
+            [
+                "SecS",
+                "CPR:9",
+                "Ophosphoseryl"
+            ],
+            [
+                "SecS",
+                "CPR:9",
+                "selenocysteyl"
+            ],
+            [
+                "SecS",
+                "CPR:9",
+                "selenophosphate"
+            ]
+        ]
+    },
+    {
+        "text": "Downregulation of GRIP1 by glutamate was blocked by carbobenzoxylleucinylleucinylleucinal MG132 a proteasome inhibitor and by expression of K48Rubiquitin a dominant negative form of ubiquitin",
+        "triple_list": [
+            [
+                "MG132",
+                "CPR:4",
+                "proteasome"
+            ],
+            [
+                "GRIP1",
+                "CPR:4",
+                "glutamate"
+            ],
+            [
+                "carbobenzoxylleucinylleucinylleucinal",
+                "CPR:4",
+                "proteasome"
+            ]
+        ]
+    },
+    {
+        "text": "RESULTS We show that sorafenib is a potent inhibitor of ETV6 PDGFRbeta and FLT3 mutants including some of the mutants that confer resistance to PKC412 and other FLT3 inhibitors",
+        "triple_list": [
+            [
+                "sorafenib",
+                "CPR:4",
+                "ETV6"
+            ],
+            [
+                "sorafenib",
+                "CPR:4",
+                "PDGFRbeta"
+            ],
+            [
+                "sorafenib",
+                "CPR:4",
+                "FLT3"
+            ]
+        ]
+    },
+    {
+        "text": "Sorafenib BAY439006 Nexavar is a small molecule BRAF inhibitor that is used for the treatment of renal cell carcinoma and has been shown to have activity against receptor tyrosine kinases from the plateletderived growth factor receptor PDGFR and vascular endothelial growth factor receptor VEGFR families",
+        "triple_list": [
+            [
+                "Sorafenib",
+                "CPR:4",
+                "BRAF"
+            ],
+            [
+                "BAY439006",
+                "CPR:4",
+                "BRAF"
+            ],
+            [
+                "Nexavar",
+                "CPR:4",
+                "BRAF"
+            ]
+        ]
+    },
+    {
+        "text": "All three salicylates inhibited the diabetesinduced translocation of p50 a subunit of NFkappaB into nuclei of retinal vascular endothelial cells of the isolated retinal vasculature as well as of p50 and p65 into nuclei of cells in the ganglion cell layer and inner nuclear layer on wholeretinal sections",
+        "triple_list": [
+            [
+                "salicylates",
+                "CPR:4",
+                "p50"
+            ],
+            [
+                "salicylates",
+                "CPR:4",
+                "NFkappaB"
+            ],
+            [
+                "salicylates",
+                "CPR:4",
+                "p65"
+            ]
+        ]
+    },
+    {
+        "text": "Estrogen regulated genes including cytokeratin 119 and Cyp2a4 were overexpressed although Cyp3a25 was suppressed",
+        "triple_list": [
+            [
+                "Estrogen",
+                "CPR:3",
+                "Cyp2a4"
+            ],
+            [
+                "Estrogen",
+                "CPR:3",
+                "cytokeratin 119"
+            ],
+            [
+                "Estrogen",
+                "CPR:4",
+                "Cyp3a25"
+            ]
+        ]
+    },
+    {
+        "text": "Several genes involved with steroid metabolism also showed remarkable expression changes including increased expression of 17betahydroxysteroid dehydrogenase7 HSD17beta7 involved in estradiol production and decreased expression of HSD17beta5 involved in testosterone production",
+        "triple_list": [
+            [
+                "17betahydroxysteroid dehydrogenase7",
+                "CPR:9",
+                "estradiol"
+            ],
+            [
+                "HSD17beta7",
+                "CPR:9",
+                "estradiol"
+            ],
+            [
+                "HSD17beta5",
+                "CPR:9",
+                "testosterone"
+            ]
+        ]
+    },
+    {
+        "text": "The expression of key genes important in methionine metabolism such as methionine adenosyltransferase1a betainehomocysteine methyltransferase and thioether Smethyltransferase were suppressed",
+        "triple_list": [
+            [
+                "methionine",
+                "CPR:9",
+                "methionine adenosyltransferase1a"
+            ],
+            [
+                "methionine",
+                "CPR:9",
+                "betainehomocysteine methyltransferase"
+            ],
+            [
+                "methionine",
+                "CPR:9",
+                "thioether Smethyltransferase"
+            ]
+        ]
+    },
+    {
+        "text": "Metformin and phenformin which are biguanides have been reported to increase AMPK activity without increasing AMPATP",
+        "triple_list": [
+            [
+                "Metformin",
+                "CPR:3",
+                "AMPK"
+            ],
+            [
+                "phenformin",
+                "CPR:3",
+                "AMPK"
+            ],
+            [
+                "biguanides",
+                "CPR:3",
+                "AMPK"
+            ]
+        ]
+    },
+    {
+        "text": "TGFbeta1 and high Dglucose increased hCAT1 mRNA expression approximately 8fold and maximal transport velocity Vmax L3Hcitrulline formation from L3Harginine index of NO synthesis and endothelial NO synthase eNOS protein abundance but did not alter eNOS phosphorylation",
+        "triple_list": [
+            [
+                "Dglucose",
+                "CPR:3",
+                "hCAT1"
+            ],
+            [
+                "NO",
+                "CPR:9",
+                "endothelial NO synthase"
+            ],
+            [
+                "NO",
+                "CPR:9",
+                "eNOS"
+            ]
+        ]
+    },
+    {
+        "text": "High Dglucose increases Larginine transport and eNOS expression following TbetaRII activation by TGFbeta1 involving p4244mapk and Smad2 in HUVEC",
+        "triple_list": [
+            [
+                "Dglucose",
+                "CPR:3",
+                "eNOS"
+            ],
+            [
+                "Dglucose",
+                "CPR:3",
+                "TbetaRII"
+            ],
+            [
+                "Dglucose",
+                "CPR:3",
+                "Smad2"
+            ]
+        ]
+    },
+    {
+        "text": "We demonstrate that only treatment of HaCaT with GLA and EPA or a PPARgamma ligand roziglitazone induced COX2 expression protein and mRNA",
+        "triple_list": [
+            [
+                "GLA",
+                "CPR:3",
+                "COX2"
+            ],
+            [
+                "EPA",
+                "CPR:3",
+                "COX2"
+            ],
+            [
+                "roziglitazone",
+                "CPR:3",
+                "COX2"
+            ]
+        ]
+    },
+    {
+        "text": "Finally PLA2 inhibitor methyl arachidonyl fluorophosphonate blocked the PUFA effects on COX2 induction promoter activity and arachidonic acid mobilization suggesting involvement of AA metabolites in PPAR activation",
+        "triple_list": [
+            [
+                "AA",
+                "CPR:3",
+                "PPAR"
+            ],
+            [
+                "PLA2",
+                "CPR:4",
+                "arachidonyl fluorophosphonate"
+            ],
+            [
+                "arachidonyl fluorophosphonate",
+                "CPR:4",
+                "COX2"
+            ]
+        ]
+    },
+    {
+        "text": "Modulation of the function of CD36 CD36 mice p38 MAPK SB203580 COX1 indomethacin and glycoprotein Ib alpha Nkprotease 6D1 antibody induced approximately 50 inhibition",
+        "triple_list": [
+            [
+                "p38",
+                "CPR:4",
+                "SB203580"
+            ],
+            [
+                "MAPK",
+                "CPR:4",
+                "SB203580"
+            ],
+            [
+                "COX1",
+                "CPR:4",
+                "indomethacin"
+            ]
+        ]
+    },
+    {
+        "text": "In this study the neuromuscular blocking drug vecuronium and the controls gallamine and pancuronium slowed the rate of atropine induced 3HNmethylscopolamine dissociation from Chinese hamster ovary cells expressing recombinant human muscarinic M2 receptors Koff values min1 vecuronium 125 nM atropine 045007blocker 004002 gallamine 21 nM atropine 042005blocker 015004 pancuronium21 nM atropine 036003blocker 003001",
+        "triple_list": [
+            [
+                "vecuronium",
+                "CPR:4",
+                "human muscarinic M2 receptors"
+            ],
+            [
+                "gallamine",
+                "CPR:4",
+                "human muscarinic M2 receptors"
+            ],
+            [
+                "pancuronium",
+                "CPR:4",
+                "human muscarinic M2 receptors"
+            ]
+        ]
+    },
+    {
+        "text": "Furthermore the activities of the two torafugu PPARalphas were enhanced 43 and 76fold by arachidonic acid 44 and 52fold by docosahexaenoic acid and 67 and 80fold by eicosapentaenoic acid each at 50 microM respectively",
+        "triple_list": [
+            [
+                "torafugu PPARalphas",
+                "CPR:3",
+                "arachidonic acid"
+            ],
+            [
+                "torafugu PPARalphas",
+                "CPR:3",
+                "docosahexaenoic acid"
+            ],
+            [
+                "torafugu PPARalphas",
+                "CPR:3",
+                "eicosapentaenoic acid"
+            ]
+        ]
+    },
+    {
+        "text": "Rasagiline NpropargyllRaminoindan is a secondgeneration propargylamine pharmacophore that selectively and irreversibly inhibits brain MAOB and is specifically designed for the treatment of Parkinsons disease PD",
+        "triple_list": [
+            [
+                "NpropargyllRaminoindan",
+                "CPR:4",
+                "MAOB"
+            ],
+            [
+                "propargylamine",
+                "CPR:4",
+                "MAOB"
+            ],
+            [
+                "Rasagiline",
+                "CPR:4",
+                "MAOB"
+            ]
+        ]
+    },
+    {
+        "text": "The affinity labeling nucleotide analog 5pfluorosulfonylbenzoyladenosine FSA inactivates the dehydrogenase and isomerase activities at similar rates in an irreversible manner which follows first order kinetics with respect to both time and alkylator concentration 0206 mM",
+        "triple_list": [
+            [
+                "nucleotide",
+                "CPR:4",
+                "dehydrogenase"
+            ],
+            [
+                "5pfluorosulfonylbenzoyladenosine",
+                "CPR:4",
+                "dehydrogenase"
+            ],
+            [
+                "FSA",
+                "CPR:4",
+                "dehydrogenase"
+            ]
+        ]
+    },
+    {
+        "text": "The Schild plots for the competitive antagonists WB4101 and 5methylurapidil against alpha 1aadrenoceptor selective agonist methoxamine induced contraction were linear and had slopes not significantly different from unity with a pA2 of 907 007 n = 5 for WB4101 and 909 005 n = 3 for 5methylurapidil",
+        "triple_list": [
+            [
+                "alpha 1aadrenoceptor",
+                "CPR:5",
+                "methoxamine"
+            ],
+            [
+                "WB4101",
+                "CPR:6",
+                "alpha 1aadrenoceptor"
+            ],
+            [
+                "5methylurapidil",
+                "CPR:6",
+                "alpha 1aadrenoceptor"
+            ]
+        ]
+    },
+    {
+        "text": "In pig parathyroid cells paricalcitol and the active form of doxercalciferol induced VDR translocation from the cytoplasm into the nucleus suppressed PTH mRNA expression and inhibited cell proliferation in a similar manner although paricalcitol induced the expression of CaSR mRNA more effectively",
+        "triple_list": [
+            [
+                "paricalcitol",
+                "CPR:3",
+                "CaSR"
+            ],
+            [
+                "paricalcitol",
+                "CPR:4",
+                "PTH"
+            ],
+            [
+                "doxercalciferol",
+                "CPR:4",
+                "PTH"
+            ]
+        ]
+    },
+    {
+        "text": "METHODS We conducted a casecontrol study to measure the association between selective cox2 inhibitors particularly celecoxib rofecoxib valdecoxib and nonspecific NSAID subgroups and breast cancer risk",
+        "triple_list": [
+            [
+                "cox2",
+                "CPR:4",
+                "celecoxib"
+            ],
+            [
+                "cox2",
+                "CPR:4",
+                "rofecoxib"
+            ],
+            [
+                "cox2",
+                "CPR:4",
+                "valdecoxib"
+            ]
+        ]
+    },
+    {
+        "text": "Here we report biochemical evidence that mercury alone induces NFκB activation resulting in the induced expression of COX2 and iNOS",
+        "triple_list": [
+            [
+                "mercury",
+                "CPR:3",
+                "NFκB"
+            ],
+            [
+                "mercury",
+                "CPR:3",
+                "COX2"
+            ],
+            [
+                "mercury",
+                "CPR:3",
+                "iNOS"
+            ]
+        ]
+    },
+    {
+        "text": "RESULTS Aspirin reduced mTOR signaling in CRC cells by inhibiting the mTOR effectors S6K1 and 4EBP1",
+        "triple_list": [
+            [
+                "Aspirin",
+                "CPR:4",
+                "mTOR"
+            ],
+            [
+                "Aspirin",
+                "CPR:4",
+                "S6K1"
+            ],
+            [
+                "Aspirin",
+                "CPR:4",
+                "4EBP1"
+            ]
+        ]
+    },
+    {
+        "text": "Exogenous stimulation of PKA activity achieved by forskolin treatment protected Kras transformed cells from apoptosis induced by glucose deprivation enhanced complex I activity intracellular adenosine triphosphate ATP levels mitochondrial fusion and decreased intracellular reactive oxygen species ROS levels",
+        "triple_list": [
+            [
+                "PKA",
+                "CPR:3",
+                "forskolin"
+            ],
+            [
+                "forskolin",
+                "CPR:3",
+                "complex I"
+            ],
+            [
+                "Kras",
+                "CPR:4",
+                "glucose"
+            ]
+        ]
+    },
+    {
+        "text": "Furthermore salubrinal a specific eIF2α phosphorylationinducing agent increased CHOP and DR5 expression in the presence of VA",
+        "triple_list": [
+            [
+                "salubrinal",
+                "CPR:3",
+                "eIF2α"
+            ],
+            [
+                "salubrinal",
+                "CPR:3",
+                "CHOP"
+            ],
+            [
+                "salubrinal",
+                "CPR:3",
+                "DR5"
+            ]
+        ]
+    },
+    {
+        "text": "Verrucarin A sensitizes TRAILinduced apoptosis via the upregulation of DR5 in an eIF2α CHOP dependent manner",
+        "triple_list": [
+            [
+                "Verrucarin A",
+                "CPR:3",
+                "DR5"
+            ],
+            [
+                "Verrucarin A",
+                "CPR:3",
+                "eIF2α"
+            ],
+            [
+                "Verrucarin A",
+                "CPR:3",
+                "CHOP"
+            ]
+        ]
+    },
+    {
+        "text": "Met RANTES treatment also reduced the levels of cathepsin K and metalloproteinase 13 MMP13",
+        "triple_list": [
+            [
+                "Met",
+                "CPR:4",
+                "cathepsin K"
+            ],
+            [
+                "Met",
+                "CPR:4",
+                "metalloproteinase 13"
+            ],
+            [
+                "Met",
+                "CPR:4",
+                "MMP13"
+            ]
+        ]
+    },
+    {
+        "text": "Several effects of polyphenols are useful in this scenario including a reduction in the activities of cytokines and modulation of cellular metabolism through histone deacetylase inhibitors AMPK activators calorierestriction mimetics or epigenetic regulators",
+        "triple_list": [
+            [
+                "polyphenols",
+                "CPR:3",
+                "AMPK"
+            ],
+            [
+                "polyphenols",
+                "CPR:4",
+                "cytokines"
+            ],
+            [
+                "polyphenols",
+                "CPR:4",
+                "histone deacetylase"
+            ]
+        ]
+    },
+    {
+        "text": "The obtained results indicate that rat brain CYP2D isoforms catalyze the formation of serotonin from 5methoxytryptamine and that the deficit or genetic defect of CYP2D may affect serotonin metabolism in the brain",
+        "triple_list": [
+            [
+                "rat brain CYP2D",
+                "CPR:9",
+                "serotonin"
+            ],
+            [
+                "rat brain CYP2D",
+                "CPR:9",
+                "5methoxytryptamine"
+            ],
+            [
+                "CYP2D",
+                "CPR:9",
+                "serotonin"
+            ]
+        ]
+    },
+    {
+        "text": "Western blot analysis indicated that TSN inhibits the CDC42 MEKK1 JNK pathway",
+        "triple_list": [
+            [
+                "TSN",
+                "CPR:4",
+                "CDC42"
+            ],
+            [
+                "TSN",
+                "CPR:4",
+                "MEKK1"
+            ],
+            [
+                "TSN",
+                "CPR:4",
+                "JNK"
+            ]
+        ]
+    },
+    {
+        "text": "Data at transcriptional level also demonstrated that catalpol potently attenuated gene expressions involved in inflammation such as iNOS COX2 and TLR4",
+        "triple_list": [
+            [
+                "catalpol",
+                "CPR:4",
+                "iNOS"
+            ],
+            [
+                "catalpol",
+                "CPR:4",
+                "COX2"
+            ],
+            [
+                "catalpol",
+                "CPR:4",
+                "TLR4"
+            ]
+        ]
+    },
+    {
+        "text": "Protein tyrosine phosphatase 1B inhibitory effect by dammarane type triterpenes from hydrolyzate of total Gynostemma pentaphyllum saponins",
+        "triple_list": [
+            [
+                "Protein tyrosine phosphatase 1B",
+                "CPR:4",
+                "saponins"
+            ],
+            [
+                "Protein tyrosine phosphatase 1B",
+                "CPR:4",
+                "dammarane"
+            ],
+            [
+                "Protein tyrosine phosphatase 1B",
+                "CPR:4",
+                "triterpenes"
+            ]
+        ]
+    },
+    {
+        "text": "Genistein also reduced the formation of stress fibers by thrombin and suppressed thrombininduced phosphorylation of myosin light chain MLC on Ser19Thr18 in endothelial cells ECs",
+        "triple_list": [
+            [
+                "Genistein",
+                "CPR:4",
+                "thrombin"
+            ],
+            [
+                "Genistein",
+                "CPR:4",
+                "myosin light chain"
+            ],
+            [
+                "Genistein",
+                "CPR:4",
+                "MLC"
+            ]
+        ]
+    },
+    {
+        "text": "This work investigated the drug interaction potential of GSK1292263 a novel GPR119 agonist with the HMGcoA reductase inhibitors simvastatin and rosuvastatin",
+        "triple_list": [
+            [
+                "HMGcoA reductase",
+                "CPR:4",
+                "simvastatin"
+            ],
+            [
+                "HMGcoA reductase",
+                "CPR:4",
+                "rosuvastatin"
+            ],
+            [
+                "GSK1292263",
+                "CPR:5",
+                "GPR119"
+            ]
+        ]
+    },
+    {
+        "text": "Apocynin and raisanberine alleviate intermittent hypoxia induced abnormal StAR and 3βHSD and low testosterone by suppressing endoplasmic reticulum stress and activated p66Shc in rat testes",
+        "triple_list": [
+            [
+                "Apocynin",
+                "CPR:4",
+                "p66Shc"
+            ],
+            [
+                "raisanberine",
+                "CPR:4",
+                "p66Shc"
+            ],
+            [
+                "raisanberine",
+                "CPR:9",
+                "3βHSD"
+            ]
+        ]
+    },
+    {
+        "text": "Jaceosidin isolated from dietary mugwort Artemisia princeps induces G2M cell cycle arrest by inactivating cdc25C cdc2 via ATM Chk12 activation",
+        "triple_list": [
+            [
+                "Jaceosidin",
+                "CPR:3",
+                "ATM"
+            ],
+            [
+                "Jaceosidin",
+                "CPR:4",
+                "cdc25C"
+            ],
+            [
+                "Jaceosidin",
+                "CPR:4",
+                "cdc2"
+            ]
+        ]
+    },
+    {
+        "text": "In conclusion this study provides the first evidence implicating that TSA inhibits TGFβ induced ROS accumulation and myofibroblast differentiation via enhanced Nrf2 ARE signaling",
+        "triple_list": [
+            [
+                "TSA",
+                "CPR:3",
+                "Nrf2"
+            ],
+            [
+                "TSA",
+                "CPR:3",
+                "ARE"
+            ],
+            [
+                "TSA",
+                "CPR:4",
+                "TGFβ"
+            ]
+        ]
+    },
+    {
+        "text": "Trichostatin A inhibits transforming growth factorβ induced reactive oxygen species accumulation and myofibroblast differentiation via enhanced NFE2related factor 2 antioxidant response element signaling",
+        "triple_list": [
+            [
+                "Trichostatin A",
+                "CPR:3",
+                "NFE2related factor 2"
+            ],
+            [
+                "Trichostatin A",
+                "CPR:3",
+                "antioxidant response element"
+            ],
+            [
+                "Trichostatin A",
+                "CPR:4",
+                "transforming growth factorβ"
+            ]
+        ]
+    },
+    {
+        "text": "Induction of HO1 through p38 MAPK Nrf2 signaling pathway by ethanol extract of Inula helenium L reduces inflammation in LPSactivated RAW 2647 cells and CLPinduced septic mice",
+        "triple_list": [
+            [
+                "HO1",
+                "CPR:3",
+                "ethanol"
+            ],
+            [
+                "p38",
+                "CPR:3",
+                "ethanol"
+            ],
+            [
+                "MAPK",
+                "CPR:3",
+                "ethanol"
+            ]
+        ]
+    },
+    {
+        "text": "FMO3 expression is induced by dietary bile acids by a mechanism that involves the farnesoid X receptor FXR a bile acid activated nuclear receptor",
+        "triple_list": [
+            [
+                "FMO3",
+                "CPR:3",
+                "bile acids"
+            ],
+            [
+                "bile acid",
+                "CPR:3",
+                "farnesoid X receptor"
+            ],
+            [
+                "bile acid",
+                "CPR:3",
+                "FXR"
+            ]
+        ]
+    },
+    {
+        "text": "Peginesatide a polyethylene glycol PEG ylated peptidebased erythropoiesisstimulating agent stimulates the erythropoietin receptor dimer that governs erythropoiesis",
+        "triple_list": [
+            [
+                "Peginesatide",
+                "CPR:3",
+                "erythropoietin receptor"
+            ],
+            [
+                "polyethylene glycol",
+                "CPR:3",
+                "erythropoietin receptor"
+            ],
+            [
+                "PEG",
+                "CPR:3",
+                "erythropoietin receptor"
+            ]
+        ]
+    },
+    {
+        "text": "Results confirmed that YR11 peptide inhibited proinflammatory cytokines in the sera and hind paw tissues of AIA rats through its suppressive effect on RANKL induced nuclear translocation of NFκB",
+        "triple_list": [
+            [
+                "YR11",
+                "CPR:4",
+                "cytokines"
+            ],
+            [
+                "YR11",
+                "CPR:4",
+                "RANKL"
+            ],
+            [
+                "YR11",
+                "CPR:4",
+                "NFκB"
+            ]
+        ]
+    },
+    {
+        "text": "Both fatty acids but DHA to a lesser extent compared with EPA selectively and dosedependently reduced the percentage of cytokine expressing Th cells in a peroxisome proliferatoractivated receptor PPARγdependent fashion whereas the expression of the cell surface marker CD69 was unaltered on activated T cells",
+        "triple_list": [
+            [
+                "fatty acids",
+                "CPR:4",
+                "cytokine"
+            ],
+            [
+                "DHA",
+                "CPR:4",
+                "cytokine"
+            ],
+            [
+                "EPA",
+                "CPR:4",
+                "cytokine"
+            ]
+        ]
+    },
+    {
+        "text": "In the in vitro model we observed high permeability of imperatorin and isoimperatorin with the Pgp mediated efflux ratios of 053 and 006 as well as medium permeability of cnidilin with 082",
+        "triple_list": [
+            [
+                "imperatorin",
+                "CPR:9",
+                "Pgp"
+            ],
+            [
+                "isoimperatorin",
+                "CPR:9",
+                "Pgp"
+            ],
+            [
+                "Pgp",
+                "CPR:9",
+                "cnidilin"
+            ]
+        ]
+    },
+    {
+        "text": "In agreement with these data the exogenous treatment of SAH or inhibition of SAHH by specific siRNA or another type of inhibitor 3deazaadenosine DAZA similarly resulted in antitumorigenic responses suppressive activity on Src the alteration of actin cytoskeleton and a change of the colocalization pattern between actin and Src",
+        "triple_list": [
+            [
+                "SAH",
+                "CPR:4",
+                "Src"
+            ],
+            [
+                "SAHH",
+                "CPR:4",
+                "3deazaadenosine"
+            ],
+            [
+                "SAHH",
+                "CPR:4",
+                "DAZA"
+            ]
+        ]
+    },
+    {
+        "text": "These findings are the first to show that longterm exposure to Mn during a critical period of neurodevelopment causes motor coordination dysfunction with parallel increment in oxidative stress markers p38 MAPK phosphorylation and caspase activity in the striatum",
+        "triple_list": [
+            [
+                "Mn",
+                "CPR:3",
+                "p38"
+            ],
+            [
+                "Mn",
+                "CPR:3",
+                "MAPK"
+            ],
+            [
+                "Mn",
+                "CPR:3",
+                "caspase"
+            ]
+        ]
+    },
+    {
+        "text": "GnRH pulse frequencydependent stimulation of FSHβ transcription is mediated via activation of PKA and CREB",
+        "triple_list": [
+            [
+                "GnRH",
+                "CPR:3",
+                "CREB"
+            ],
+            [
+                "GnRH",
+                "CPR:3",
+                "FSHβ"
+            ],
+            [
+                "GnRH",
+                "CPR:3",
+                "PKA"
+            ]
+        ]
+    },
+    {
+        "text": "Correlating with FSHβ activation both PKA activity and levels of pCREB were increased to a greater extent by low compared with high GnRH pulse frequencies and the induction of pCREB was also attenuated by overexpression of DNPKA at both low and high pulse frequencies",
+        "triple_list": [
+            [
+                "FSHβ",
+                "CPR:3",
+                "GnRH"
+            ],
+            [
+                "PKA",
+                "CPR:3",
+                "GnRH"
+            ],
+            [
+                "pCREB",
+                "CPR:3",
+                "GnRH"
+            ]
+        ]
+    },
+    {
+        "text": "In another experiment topical application of CFB CFE or CLS prior to UVB irradiation 200mJcm2 on BALBc mice inhibited the UVBelevated protein levels of COX2 iNOS and TNFα",
+        "triple_list": [
+            [
+                "CLS",
+                "CPR:4",
+                "COX2"
+            ],
+            [
+                "CLS",
+                "CPR:4",
+                "iNOS"
+            ],
+            [
+                "CLS",
+                "CPR:4",
+                "TNFα"
+            ]
+        ]
+    },
+    {
+        "text": "The most potent compound 5 HJC0123 has demonstrated to inhibit STAT3 promoter activity downregulate phosphorylation of STAT3 increase the expression of cleaved caspase3 inhibit cell cycle progression and promote apoptosis in breast and pancreatic cancer cells with low micromolar to nanomolar IC50 values",
+        "triple_list": [
+            [
+                "HJC0123",
+                "CPR:3",
+                "caspase3"
+            ],
+            [
+                "HJC0123",
+                "CPR:4",
+                "STAT3 promoter"
+            ],
+            [
+                "HJC0123",
+                "CPR:4",
+                "STAT3"
+            ]
+        ]
+    },
+    {
+        "text": "When mice were treated ip with the major neonicotinoid imidacloprid IMI metabolism by CYP oxidation reactions was not appreciably affected whereas the AOX generated nitrosoguanidine metabolite was decreased by 30 with tungsten and 56 with hydralazine and 86 in the AOXdeficient mice",
+        "triple_list": [
+            [
+                "AOX",
+                "CPR:4",
+                "tungsten"
+            ],
+            [
+                "AOX",
+                "CPR:4",
+                "hydralazine"
+            ],
+            [
+                "AOX",
+                "CPR:9",
+                "nitrosoguanidine"
+            ]
+        ]
+    },
+    {
+        "text": "Currently the most important insecticides are neonicotinoids which are metabolized in vitro by AOX on reduction of the nitroimino group and by CYPs via oxidation reactions",
+        "triple_list": [
+            [
+                "neonicotinoids",
+                "CPR:9",
+                "AOX"
+            ],
+            [
+                "neonicotinoids",
+                "CPR:9",
+                "CYPs"
+            ],
+            [
+                "AOX",
+                "CPR:9",
+                "nitroimino"
+            ]
+        ]
+    },
+    {
+        "text": "Upon nicotine preexposure brain acetylcholinesterase increased while monoamine oxidase MAO decreased",
+        "triple_list": [
+            [
+                "nicotine",
+                "CPR:3",
+                "acetylcholinesterase"
+            ],
+            [
+                "nicotine",
+                "CPR:4",
+                "monoamine oxidase"
+            ],
+            [
+                "nicotine",
+                "CPR:4",
+                "MAO"
+            ]
+        ]
+    },
+    {
+        "text": "In addition to the effect on ROS puerarin ameliorated MPTP reduced lysosomeassociated membrane protein type 2A Lamp 2A expression",
+        "triple_list": [
+            [
+                "puerarin",
+                "CPR:4",
+                "Lamp 2A"
+            ],
+            [
+                "MPTP",
+                "CPR:4",
+                "lysosomeassociated membrane protein type 2A"
+            ],
+            [
+                "MPTP",
+                "CPR:4",
+                "Lamp 2A"
+            ]
+        ]
+    },
+    {
+        "text": "Nobiletin attenuates metastasis via both ERK and PI3K Akt pathways in HGFtreated liver cancer HepG2 cells",
+        "triple_list": [
+            [
+                "Nobiletin",
+                "CPR:4",
+                "ERK"
+            ],
+            [
+                "Nobiletin",
+                "CPR:4",
+                "PI3K"
+            ],
+            [
+                "Nobiletin",
+                "CPR:4",
+                "Akt"
+            ]
+        ]
+    },
+    {
+        "text": "Cholesterol also increases Amyloid β Aβ deposition and tau pathology",
+        "triple_list": [
+            [
+                "Cholesterol",
+                "CPR:4",
+                "Amyloid β"
+            ],
+            [
+                "Cholesterol",
+                "CPR:4",
+                "Aβ"
+            ],
+            [
+                "Cholesterol",
+                "CPR:4",
+                "tau"
+            ]
+        ]
+    },
+    {
+        "text": "Subsequent optimization led to several novel 3HPT based HDACi that are selective for HDAC 6 and HDAC 8",
+        "triple_list": [
+            [
+                "3HPT",
+                "CPR:4",
+                "HDAC"
+            ],
+            [
+                "3HPT",
+                "CPR:4",
+                "HDAC 6"
+            ],
+            [
+                "3HPT",
+                "CPR:4",
+                "HDAC 8"
+            ]
+        ]
+    },
+    {
+        "text": "These results indicate that parabens are selective agonists for ERβ over ERα their interactions with ERαβ are dependent on the size and bulkiness of the alkyl groups and they are metabolized by carboxylesterases leading to attenuation of their estrogenic activity",
+        "triple_list": [
+            [
+                "parabens",
+                "CPR:5",
+                "ERβ"
+            ],
+            [
+                "parabens",
+                "CPR:5",
+                "ERα"
+            ],
+            [
+                "parabens",
+                "CPR:9",
+                "carboxylesterases"
+            ]
+        ]
+    },
+    {
+        "text": "Opening of Panx1 HCs during repetitive activation allows efflux of ATP influx of glucose and possibly Ca2 too which are required for potentiation of contraction",
+        "triple_list": [
+            [
+                "Panx1",
+                "CPR:9",
+                "ATP"
+            ],
+            [
+                "Panx1",
+                "CPR:9",
+                "glucose"
+            ],
+            [
+                "Panx1",
+                "CPR:9",
+                "Ca2"
+            ]
+        ]
+    },
+    {
+        "text": "The Bcl2 Bax ratio increased and Mfn2 expression decreased in MIN6 cells after glucose stimulation",
+        "triple_list": [
+            [
+                "Bcl2",
+                "CPR:3",
+                "glucose"
+            ],
+            [
+                "Bax",
+                "CPR:3",
+                "glucose"
+            ],
+            [
+                "Mfn2",
+                "CPR:4",
+                "glucose"
+            ]
+        ]
+    },
+    {
+        "text": "The current study examined the bioactivation potential of ghrelin receptor inverse agonists 122chloro42H123triazol2ylbenzyl27diazaspiro35nonan7yl2imidazo21bthiazol6ylethanone 1 and 122chloro42H123triazol2ylbenzyl27diazaspiro35nonan7yl22methylimidazo21bthiazol6ylethanone 2 containing a fused imidazo21bthiazole motif in the core structure",
+        "triple_list": [
+            [
+                "ghrelin receptor",
+                "CPR:5",
+                "122chloro42H123triazol2ylbenzyl27diazaspiro35nonan7yl22methylimidazo21bthiazol6ylethanone"
+            ],
+            [
+                "ghrelin receptor",
+                "CPR:5",
+                "imidazo21bthiazole"
+            ],
+            [
+                "ghrelin receptor",
+                "CPR:5",
+                "122chloro42H123triazol2ylbenzyl27diazaspiro35nonan7yl2imidazo21bthiazol6ylethanone"
+            ]
+        ]
+    },
+    {
+        "text": "Rats intoxicated with Cd for 30 days significantly increased tissue malondialdehyde MDA levels and significantly decreased enzymatic antioxidants superoxide dismutase glutathione peroxidase and catalase in the frontal cortex tissue",
+        "triple_list": [
+            [
+                "Cd",
+                "CPR:4",
+                "superoxide dismutase"
+            ],
+            [
+                "Cd",
+                "CPR:4",
+                "glutathione peroxidase"
+            ],
+            [
+                "Cd",
+                "CPR:4",
+                "catalase"
+            ]
+        ]
+    },
+    {
+        "text": "Drugdrug interactions are dependent on statins pharmacokinetic profile simvastatin lovastatin and atorvastatin are metabolized through cytochrome P450 CYP 3A while the metabolism of the other statins is independent of this CYP",
+        "triple_list": [
+            [
+                "simvastatin",
+                "CPR:9",
+                "cytochrome P450 CYP 3A"
+            ],
+            [
+                "lovastatin",
+                "CPR:9",
+                "cytochrome P450 CYP 3A"
+            ],
+            [
+                "atorvastatin",
+                "CPR:9",
+                "cytochrome P450 CYP 3A"
+            ]
+        ]
+    },
+    {
+        "text": "To study the mechanism underlying this phenomenon the effects of the nonselective betaadrenoceptor antagonists propranolol no intrinsic sympathomimetic activity ISA alprenolol weak ISA and mepindolol strong ISA on lymphocyte beta 2adrenoceptor densityassessed by 125Iiodocyanopindolol ICYP bindingand plasma renin activity PRA were investigated in male healthy volunteers aged 2335 years",
+        "triple_list": [
+            [
+                "betaadrenoceptor",
+                "CPR:6",
+                "propranolol"
+            ],
+            [
+                "betaadrenoceptor",
+                "CPR:6",
+                "alprenolol"
+            ],
+            [
+                "betaadrenoceptor",
+                "CPR:6",
+                "mepindolol"
+            ]
+        ]
+    },
+    {
+        "text": "Inhibition of 5lipoxygenase pathway of arachidonic acid metabolism in human neutrophils by sulfasalazine and 5aminosalicylic acid",
+        "triple_list": [
+            [
+                "5lipoxygenase",
+                "CPR:4",
+                "5aminosalicylic acid"
+            ],
+            [
+                "5lipoxygenase",
+                "CPR:4",
+                "sulfasalazine"
+            ],
+            [
+                "5lipoxygenase",
+                "CPR:9",
+                "arachidonic acid"
+            ]
+        ]
+    },
+    {
+        "text": "The order of effect was 4HPR greater than ROAc greater than 13cisRA with increases in prothrombin times correlating with increases in hemorrhagic deaths",
+        "triple_list": [
+            [
+                "4HPR",
+                "CPR:3",
+                "prothrombin"
+            ],
+            [
+                "ROAc",
+                "CPR:3",
+                "prothrombin"
+            ],
+            [
+                "13cisRA",
+                "CPR:3",
+                "prothrombin"
+            ]
+        ]
+    },
+    {
+        "text": "13cisRA and ROAc but not 4HPR caused a dosedependent reduction in plasma osteocalcin an effect that correlated with retinoidinduced bone effects",
+        "triple_list": [
+            [
+                "13cisRA",
+                "CPR:4",
+                "osteocalcin"
+            ],
+            [
+                "ROAc",
+                "CPR:4",
+                "osteocalcin"
+            ],
+            [
+                "4HPR",
+                "CPR:4",
+                "osteocalcin"
+            ]
+        ]
+    },
+    {
+        "text": "Inhibition of the leukotriene synthetase of rat basophil leukemia cells by diethylcarbamazine and synergism between diethylcarbamazine and piriprost a 5lipoxygenase inhibitor",
+        "triple_list": [
+            [
+                "diethylcarbamazine",
+                "CPR:4",
+                "5lipoxygenase"
+            ],
+            [
+                "piriprost",
+                "CPR:4",
+                "5lipoxygenase"
+            ],
+            [
+                "leukotriene synthetase",
+                "CPR:4",
+                "diethylcarbamazine"
+            ]
+        ]
+    },
+    {
+        "text": "Similar concentrations also inhibited the formation of leukotriene C4 LTC4 by LTC synthetase a detergentsolubilized cell free particulate enzyme from RBL cells which is capable of coupling LTA4 to glutathione",
+        "triple_list": [
+            [
+                "leukotriene C4",
+                "CPR:9",
+                "LTC synthetase"
+            ],
+            [
+                "LTC4",
+                "CPR:9",
+                "LTC synthetase"
+            ],
+            [
+                "LTC synthetase",
+                "CPR:9",
+                "LTA4"
+            ]
+        ]
+    },
+    {
+        "text": "Differential lactose lactulose Lrhamnose absorption provides a noninvasive and sensitive index of small intestinal integrity of value for the interpretation of prolonged or otherwise complicated enteritis and the distinction of primary secondary intestinal lactase deficiency",
+        "triple_list": [
+            [
+                "lactose",
+                "CPR:9",
+                "lactase"
+            ],
+            [
+                "lactulose",
+                "CPR:9",
+                "lactase"
+            ],
+            [
+                "Lrhamnose",
+                "CPR:9",
+                "lactase"
+            ]
+        ]
+    },
+    {
+        "text": "Gossypol and its isomers were noncompetitive inhibitors of human and hamster LDHX with respect to the coenzyme NADH competitive inhibitors of human LDHX and noncompetitivecompetitive inhibitors of hamster LDHX with respect to the substrate alphaketobutyrate",
+        "triple_list": [
+            [
+                "Gossypol",
+                "CPR:4",
+                "human and hamster LDHX"
+            ],
+            [
+                "NADH",
+                "CPR:4",
+                "human LDHX"
+            ],
+            [
+                "hamster LDHX",
+                "CPR:9",
+                "alphaketobutyrate"
+            ]
+        ]
+    },
+    {
+        "text": "The present study utilized blood from normal volunteers and 125Ifibrinogen in a dilute whole blood clot assay to determine the relative concentrations of lysine analogues required for inhibition of clot lysis induced by exogenous tPA AMCA 006 mM and EACA 06 mM were effective in prolonging clot lysis if 1 whole blood clots were formed and then exposed to a lysine analogue and exogenous tPA or if 2 whole blood clots were formed in the presence of exogenous tPA and a lysine analogue",
+        "triple_list": [
+            [
+                "tPA",
+                "CPR:4",
+                "AMCA"
+            ],
+            [
+                "tPA",
+                "CPR:4",
+                "EACA"
+            ],
+            [
+                "lysine",
+                "CPR:4",
+                "tPA"
+            ]
+        ]
+    },
+    {
+        "text": "The enhancement of the depolarizing afterpotential by histamine was mimicked by the histamine H1receptor agonist 2thiazolylethylamine and was reduced or blocked by the H1receptor antagonist promethazine but was not blocked or reduced in the presence of the histamine H2receptor antagonist cimetidine",
+        "triple_list": [
+            [
+                "histamine H1receptor",
+                "CPR:5",
+                "2thiazolylethylamine"
+            ],
+            [
+                "H1receptor",
+                "CPR:6",
+                "promethazine"
+            ],
+            [
+                "histamine H2receptor",
+                "CPR:6",
+                "cimetidine"
+            ]
+        ]
+    },
+    {
+        "text": "The goal of the present study was to compare the effects of three potent reference renin inhibitors remikiren CGP 38560A and enalkiren in sodiumdepleted normotensive squirrel monkeys",
+        "triple_list": [
+            [
+                "renin",
+                "CPR:4",
+                "remikiren"
+            ],
+            [
+                "renin",
+                "CPR:4",
+                "CGP 38560A"
+            ],
+            [
+                "renin",
+                "CPR:4",
+                "enalkiren"
+            ]
+        ]
+    },
+    {
+        "text": "One possible explanation is that in our model remikiren in contrast to CGP 38560A and enalkiren is able to inhibit renin in a functionally important extraplasmatic compartment",
+        "triple_list": [
+            [
+                "remikiren",
+                "CPR:4",
+                "renin"
+            ],
+            [
+                "CGP 38560A",
+                "CPR:4",
+                "renin"
+            ],
+            [
+                "enalkiren",
+                "CPR:4",
+                "renin"
+            ]
+        ]
+    },
+    {
+        "text": "The hydrolysis of fluorescein diphosphate by PTP epsilon and PTPmeg1 was sensitive to alendronate with IC50 values of less than 1 microM PTPsigma however under the same conditions was inhibited by only 50 with 141 microM alendronate",
+        "triple_list": [
+            [
+                "alendronate",
+                "CPR:4",
+                "PTPsigma"
+            ],
+            [
+                "diphosphate",
+                "CPR:9",
+                "PTP epsilon"
+            ],
+            [
+                "diphosphate",
+                "CPR:9",
+                "PTPmeg1"
+            ]
+        ]
+    },
+    {
+        "text": "MB28767 a putative EP3 agonist and misoprostol a putative EP2 EP3 agonist also bound to this receptor with Ki values of 120 nM",
+        "triple_list": [
+            [
+                "MB28767",
+                "CPR:5",
+                "EP3"
+            ],
+            [
+                "misoprostol",
+                "CPR:5",
+                "EP2"
+            ],
+            [
+                "EP3",
+                "CPR:5",
+                "misoprostol"
+            ]
+        ]
+    }
+]

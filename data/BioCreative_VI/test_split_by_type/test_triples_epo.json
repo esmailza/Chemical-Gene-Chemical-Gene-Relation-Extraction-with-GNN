@@ -1,0 +1,402 @@
+[
+    {
+        "text": "Agonist and antagonist actions of yohimbine as compared to fluparoxan at alpha2adrenergic receptors ARs serotonin 5HT1A 5HT1B 5HT1D and dopamine D2 and D3 receptors",
+        "triple_list": [
+            [
+                "yohimbine",
+                "CPR:5",
+                "ARs"
+            ],
+            [
+                "yohimbine",
+                "CPR:5",
+                "5HT1A"
+            ],
+            [
+                "yohimbine",
+                "CPR:5",
+                "5HT1B"
+            ],
+            [
+                "yohimbine",
+                "CPR:5",
+                "5HT1D"
+            ],
+            [
+                "yohimbine",
+                "CPR:5",
+                "alpha2adrenergic receptors"
+            ],
+            [
+                "fluparoxan",
+                "CPR:5",
+                "ARs"
+            ],
+            [
+                "fluparoxan",
+                "CPR:5",
+                "alpha2adrenergic receptors"
+            ],
+            [
+                "yohimbine",
+                "CPR:6",
+                "ARs"
+            ],
+            [
+                "yohimbine",
+                "CPR:6",
+                "5HT1A"
+            ],
+            [
+                "yohimbine",
+                "CPR:6",
+                "5HT1B"
+            ],
+            [
+                "yohimbine",
+                "CPR:6",
+                "5HT1D"
+            ],
+            [
+                "yohimbine",
+                "CPR:6",
+                "alpha2adrenergic receptors"
+            ],
+            [
+                "fluparoxan",
+                "CPR:6",
+                "ARs"
+            ],
+            [
+                "fluparoxan",
+                "CPR:6",
+                "alpha2adrenergic receptors"
+            ]
+        ]
+    },
+    {
+        "text": "Iontophoresis of propranolol whose serotonergic actions include antagonism and partial agonism at 5HT1 receptors also increased serotonin and decreased firing n=4",
+        "triple_list": [
+            [
+                "propranolol",
+                "CPR:5",
+                "5HT1"
+            ],
+            [
+                "propranolol",
+                "CPR:6",
+                "5HT1"
+            ]
+        ]
+    },
+    {
+        "text": "However when coapplied with 10 micro m GABA ivermectin potentiated the GABAevoked current of the GAB1 HG1A receptor but attenuated the GABA response of the GAB1 HG1E receptor",
+        "triple_list": [
+            [
+                "ivermectin",
+                "CPR:3",
+                "GAB1"
+            ],
+            [
+                "ivermectin",
+                "CPR:3",
+                "HG1A"
+            ],
+            [
+                "ivermectin",
+                "CPR:4",
+                "GAB1"
+            ],
+            [
+                "ivermectin",
+                "CPR:4",
+                "HG1E"
+            ]
+        ]
+    },
+    {
+        "text": "In conclusion TT235 may inhibit the uterine response to oxytocin by decreasing oxytocin receptor numbers and oxytocin binding affinity which might explain the prolonged oxytocin antagonist activity of TT235",
+        "triple_list": [
+            [
+                "TT235",
+                "CPR:4",
+                "oxytocin"
+            ],
+            [
+                "TT235",
+                "CPR:4",
+                "oxytocin receptor"
+            ],
+            [
+                "TT235",
+                "CPR:6",
+                "oxytocin"
+            ]
+        ]
+    },
+    {
+        "text": "Analysis of tumourconditioned medium indicated that bexarotene decreased the secretion of angiogenic factors and matrix metalloproteinases and increased the tissue inhibitor of matrix metalloproteinases",
+        "triple_list": [
+            [
+                "bexarotene",
+                "CPR:3",
+                "matrix metalloproteinases"
+            ],
+            [
+                "bexarotene",
+                "CPR:4",
+                "matrix metalloproteinases"
+            ]
+        ]
+    },
+    {
+        "text": "In addition another study suggests that ibuprofen reduces generation of amyloidbeta42 peptide via inactivation of RhoA signaling although it may also regulate amyloidbeta42 formation by direct inhibition of the gammasecretase complex",
+        "triple_list": [
+            [
+                "ibuprofen",
+                "CPR:3",
+                "amyloidbeta42"
+            ],
+            [
+                "ibuprofen",
+                "CPR:4",
+                "amyloidbeta42"
+            ],
+            [
+                "ibuprofen",
+                "CPR:4",
+                "RhoA"
+            ],
+            [
+                "ibuprofen",
+                "CPR:4",
+                "gammasecretase complex"
+            ]
+        ]
+    },
+    {
+        "text": "Recent studies indicate that tamoxifen initially acts as an antagonist but later functions as an ER agonist promoting tumor growth",
+        "triple_list": [
+            [
+                "tamoxifen",
+                "CPR:5",
+                "ER"
+            ],
+            [
+                "tamoxifen",
+                "CPR:6",
+                "ER"
+            ]
+        ]
+    },
+    {
+        "text": "CONCLUSIONS AND IMPLICATIONS In different cell systems mianserin directly activates kappaopioid receptors displaying partial agonist activity at brain receptors",
+        "triple_list": [
+            [
+                "mianserin",
+                "CPR:3",
+                "kappaopioid receptors"
+            ],
+            [
+                "mianserin",
+                "CPR:5",
+                "kappaopioid receptors"
+            ]
+        ]
+    },
+    {
+        "text": "The agonist activity was antagonized by the selective kappaopioid blocker norbinaltorphimine norBNI",
+        "triple_list": [
+            [
+                "kappaopioid",
+                "CPR:4",
+                "norbinaltorphimine"
+            ],
+            [
+                "kappaopioid",
+                "CPR:4",
+                "norBNI"
+            ],
+            [
+                "kappaopioid",
+                "CPR:6",
+                "norbinaltorphimine"
+            ],
+            [
+                "kappaopioid",
+                "CPR:6",
+                "norBNI"
+            ]
+        ]
+    },
+    {
+        "text": "Herein we report the identification and characterization of 35tertbutylisoxazol3yl23chlorophenylhydrazono3oxopropionitrile ESI09 a novel noncyclic nucleotide EPAC antagonist that is capable of specifically blocking intracellular EPACmediated Rap1 activation and Akt phosphorylation as well as EPACmediated insulin secretion in pancreatic β cells",
+        "triple_list": [
+            [
+                "35tertbutylisoxazol3yl23chlorophenylhydrazono3oxopropionitrile",
+                "CPR:4",
+                "EPAC"
+            ],
+            [
+                "35tertbutylisoxazol3yl23chlorophenylhydrazono3oxopropionitrile",
+                "CPR:4",
+                "Rap1"
+            ],
+            [
+                "35tertbutylisoxazol3yl23chlorophenylhydrazono3oxopropionitrile",
+                "CPR:4",
+                "Akt"
+            ],
+            [
+                "35tertbutylisoxazol3yl23chlorophenylhydrazono3oxopropionitrile",
+                "CPR:4",
+                "insulin"
+            ],
+            [
+                "ESI09",
+                "CPR:4",
+                "EPAC"
+            ],
+            [
+                "ESI09",
+                "CPR:4",
+                "Rap1"
+            ],
+            [
+                "ESI09",
+                "CPR:4",
+                "Akt"
+            ],
+            [
+                "ESI09",
+                "CPR:4",
+                "insulin"
+            ],
+            [
+                "nucleotide",
+                "CPR:4",
+                "EPAC"
+            ],
+            [
+                "nucleotide",
+                "CPR:4",
+                "Rap1"
+            ],
+            [
+                "nucleotide",
+                "CPR:4",
+                "Akt"
+            ],
+            [
+                "nucleotide",
+                "CPR:4",
+                "insulin"
+            ],
+            [
+                "35tertbutylisoxazol3yl23chlorophenylhydrazono3oxopropionitrile",
+                "CPR:6",
+                "EPAC"
+            ],
+            [
+                "ESI09",
+                "CPR:6",
+                "EPAC"
+            ],
+            [
+                "nucleotide",
+                "CPR:6",
+                "EPAC"
+            ]
+        ]
+    },
+    {
+        "text": "Results indicate that AM4054 serves as an effective CB1 discriminative stimulus with an onset and time course of action comparable with that of the CB1 agonist Δ9tetrahydrocannabinol and that the inverse agonist rimonabant and the neutral antagonist AM4113 produce doserelated rightward shifts in the AM4054 doseeffect curve indicating that both drugs surmountably antagonize the discriminative stimulus effects of AM4054",
+        "triple_list": [
+            [
+                "AM4054",
+                "CPR:3",
+                "CB1"
+            ],
+            [
+                "CB1",
+                "CPR:5",
+                "Δ9tetrahydrocannabinol"
+            ],
+            [
+                "CB1",
+                "CPR:5",
+                "rimonabant"
+            ],
+            [
+                "AM4054",
+                "CPR:5",
+                "CB1"
+            ],
+            [
+                "CB1",
+                "CPR:6",
+                "AM4113"
+            ]
+        ]
+    },
+    {
+        "text": "Interestingly miR21 expression positively correlated with urine albumin creatine ratio ACR TIMP1 collagen IV ColIV and fibronectin FN while negatively correlated with creatine clearance ratio Ccr and MMP9 protein",
+        "triple_list": [
+            [
+                "miR21",
+                "CPR:3",
+                "creatine"
+            ],
+            [
+                "miR21",
+                "CPR:4",
+                "creatine"
+            ]
+        ]
+    },
+    {
+        "text": "IPI926 is both a substrate and inhibitor IC50 = 19 µM of Pglycoprotein",
+        "triple_list": [
+            [
+                "IPI926",
+                "CPR:4",
+                "Pglycoprotein"
+            ],
+            [
+                "IPI926",
+                "CPR:9",
+                "Pglycoprotein"
+            ]
+        ]
+    },
+    {
+        "text": "Xanthines are classical antagonists for adenosine receptors for many of their pharmacological actions may be due to blockade of adenosine receptors",
+        "triple_list": [
+            [
+                "Xanthines",
+                "CPR:4",
+                "adenosine receptors"
+            ],
+            [
+                "Xanthines",
+                "CPR:6",
+                "adenosine receptors"
+            ]
+        ]
+    },
+    {
+        "text": "These results indicate that carbetocin is a partial agonistantagonist to the oxytocin receptor while the two metabolites carbetocin metabolite I and carbetocin metabolite II are pure antagonists",
+        "triple_list": [
+            [
+                "carbetocin",
+                "CPR:5",
+                "oxytocin receptor"
+            ],
+            [
+                "carbetocin",
+                "CPR:6",
+                "oxytocin receptor"
+            ]
+        ]
+    }
+]
