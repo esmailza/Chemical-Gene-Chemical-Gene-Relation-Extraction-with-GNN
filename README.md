@@ -4,7 +4,10 @@ The model identifies chemical components and genes named entities and extracts t
 
 ## Model Architecture
 
-![Architecture2](https://user-images.githubusercontent.com/59030870/197599628-e47f1ec4-34a2-4aa0-ac7b-c5c11d9c5568.png)
+
+<img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://user-images.githubusercontent.com/59030870/197599628-e47f1ec4-34a2-4aa0-ac7b-c5c11d9c5568.png)" 
+     width="400" 
+     height="500" />
 
 ## Model sections
 
