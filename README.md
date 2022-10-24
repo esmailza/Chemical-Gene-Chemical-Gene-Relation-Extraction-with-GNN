@@ -34,6 +34,7 @@ python trainBioCreative.py
   - numpy
 
 ## Citation
+```sh
 @inproceedings{esmail2022chemical,
   title={Chemical-Gene Relation Extraction with Graph Neural Networks and BERT Encoder},
   author={Esmail Zadeh Nojoo Kambar, Mina and Esmaeilzadeh, Armin and Taghva, Kazem},
@@ -42,4 +43,4 @@ python trainBioCreative.py
   year={2022},
   organization={Springer}
 }
-
+```
